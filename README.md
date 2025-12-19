@@ -58,5 +58,5 @@ when i’m not coding, i’m probably drawing, gaming, or organizing my desktop 
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/b2/63/8a/b2638a6128b3d1b60a5d2cf31f0ac23a.jpg" width="70%" alt="pink divider" />
+  <img src="https://i.pinimg.com/originals/74/63/d7/7463d78d184c43bb878ee9b63d5e8652.gif" width="70%" alt="pink divider" />
 </p>
