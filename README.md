@@ -49,7 +49,7 @@ when i’m not coding, i’m probably drawing, gaming, or organizing my desktop 
 ### 💌 find me
 
 - ✨ **portfolio:** [coming soon]
-- 🌸 **github:** [github.com/dooshy.64](https://github.com/dooshy.64)
+- 🌸 **github:** [github.com/dooshyy](https://github.com/dooshyy)
 
 ---
 
