@@ -36,16 +36,6 @@ when i’m not coding, i’m probably gaming, drawing, or geeking out over tech 
 
 ---
 
-### 📊 github vibes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ponyoniko&theme=blueberry&hide_border=true&bg_color=blue,skyblue&title_color=fff&text_color=fff&icon_color=lightblue" alt="stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponyoniko&layout=compact&theme=blueberry&bg_color=skyblue,blue&title_color=fff&text_color=fff" alt="top langs" />
-</p>
-
----
-
 ### 💌 find me
 
 - 💫 **portfolio:** [coming soon]
