@@ -13,7 +13,7 @@
 
 ### 💙 about me
 
-hi! i’m **Treaki** — online you can find me as **Treaki Dev** or **Treakioniko**. i love crafting clean code with a splash of aesthetic.  
+hi! i’m **Treaki** — online you can find me as **TreakiMods** or **TreakiYT**. i love crafting clean code with a splash of aesthetic.  
 when i’m not coding, i’m probably gaming, drawing, or geeking out over tech and tools.
 
 💫 **currently working on:**  
