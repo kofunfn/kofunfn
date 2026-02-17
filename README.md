@@ -53,12 +53,6 @@ Here are some highlighted repos:
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kofunfn&layout=compact&theme=dark)
-![Stats](https://github-readme-stats.vercel.app/api?username=kofunfn&show_icons=true&count_private=true&theme=dark)
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
