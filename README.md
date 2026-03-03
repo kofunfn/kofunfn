@@ -1,73 +1,49 @@
-<!--
-   _____    ____   ________  _   _   _   _   _   _   _   _
-  |  __ \  / __ \ |  ____| || \ | | | \ | | | \ | | | \ | |
-  | |  | || |  | || |__  | ||  \| | |  \| | |  \| | |  \| |
-  | |  | || |  | ||  __| | || . ` | | . ` | | . ` | | . ` |
-  | |__| || |__| || |____| || |\  | | |\  | | |\  | | |\  |
-  |_____/  \____/ |______|_||_| \_| |_| \_| |_| \_| |_| \_|
--->
-
 <p align="center">
-  <img width="240" src="https://github.com/kofunfn.png" alt="avatar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=000000&center=true&vCenter=true&width=300&lines=CID_9_Athena_Commando;low-level+%2F+game+modder" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋 I'm <b>Kofun</b>!</h1>
-<p align="center">14 y/o C++ / C# / Python / Rust / x64 Assembly programmer. Game Modder focused on ✨ <b>The Last of Us</b>, <b>Uncharted</b>, <b>GTA V</b>, <b>Fortnite</b> mods and tools.</p>
+<p align="center">
+  <img src="https://github.com/cid9.png" width="100" style="border-radius: 50%; border: 1px solid #000;" alt="cid9">
+</p>
 
----
-
-## 🚀 About Me
-- 🧠 Passionate about low-level programming, reverse engineering, and game internals  
-- 💻 Love building tools, engines, and mods that push boundaries  
-- 🎮 Creator of bots, SDKs, engines, and utility tools for gaming communities  
-- 🇵🇹 Based in Portugal
-
----
-
-## 🛠 What I Use
-
-### 🧪 Languages
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
-![Assembly](https://img.shields.io/badge/-x64%20Assembly-2D2D2D?logo=assembly&logoColor=white)
-
-### 🧰 Tools & Tech
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-
----
-
-## 🔭 Featured Projects
-Here are some highlighted repos:
-
-### 🐍 Tools & Bots
-- 💬 **PSN-Store-Tool-Bot** – Discord bot for PlayStation tooling (Python)
-- 🔧 **T2RClientSDK** – Mod SDK for *The Last of Us 2*, advanced engine APIs (C++)
-- ⚙️ **roam-engine** – Lightweight game engine inspired by RAGE (C++)
-
-*(You can add more links and descriptions here)*
-
----
-
-## 📫 Connect with Me
+<h3 align="center">⚫ CID_9 ⚪</h3>
 
 <p align="center">
-  <a href="https://guns.lol/kofunfn" target="_blank">🌐 Website</a> •
-  <a href="https://linkedin.com/in/...">🔗 LinkedIn</a> •
-  <a href="mailto:your.email@example.com">✉️ Email</a>
+  <code>C++</code> • <code>C#</code> • <code>Python</code> • <code>Rust</code> • <code>x64 ASM</code>
 </p>
 
 ---
 
-## 🙂 Fun & Personal
-- 🎧 Music lover
-- ☕ Coffee enthusiast
-- 🤔 Always curious about optimization and internals
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b7611n2h6s8p3t5k7j9f2d4g6h8j3k5l7n9q2r4t6v8w0y&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="280">
+</p>
 
----
+```yaml
+name: cid9
+from: portugal
+work: low-level • reverse • modding
+tools: C++ • Rust • IDA • Git
+```
 
-<p align="center">✨ Thanks for visiting my GitHub profile!</p>
+```
+📁 psn-bot      → discord tool
+📁 tlou-sdk     → mod framework
+📁 roam-engine  → game engine
+📁 re-tools     → reverse utils
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cid9&show_icons=true&hide_title=true&count_private=true&hide_rank=true&bg_color=fff&text_color=000&icon_color=000&title_color=000&border_color=ddd&hide=issues&hide_border=true" width="350">
+</p>
+
+<p align="center">
+  <a href="https://github.com/cid9">github</a> • <a href="#">website</a> • <a href="#">email</a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="400">
+</p>
+
+<p align="center">
+  <samp>#</samp>
+</p>
